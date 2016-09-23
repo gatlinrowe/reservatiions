@@ -1,0 +1,14 @@
+Instructions:
+
+Spend a few moments looking over the files in B-Final-App.
+1. Get the server running
+2. Begin dissecting the javascript code found at the bottom of add.html
+3. Explain to your neighbor:
+    a. What the code does
+    b. What it is for
+    c. Why it is relevant to the application
+    d. Be sure to highlight the $.post code functionality in your explanation
+
+FYI: Express has a built-in application generator that will create all the files,
+directories that you need and put a package.json file in place.  Check it out at
+http://expressjs.com/en/starter/generator.html
